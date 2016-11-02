@@ -14,6 +14,11 @@ sudo npm install -g babel-cli
 
 ## Running sample
 1. Download sample from GitHub
+     ```bash
+     $ git clone https://github.com/bfortunato/aj-framework-todolist.git
+     # output...
+     ```
+     
 2. Build aj project files
      ```bash
      $ cd todolist-http
