@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="no_todos">No things to do</string>
+</resources>
