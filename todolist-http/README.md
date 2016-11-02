@@ -51,5 +51,7 @@ sudo npm install -g babel-cli
      
      
 To run on Android, open project located on todolist-http/platforms/android
+
 To run on iOS, open project located on todolist-http/platforms/ios
+
 To run on web browsers, navigate to http://yourip:8000/index.html
