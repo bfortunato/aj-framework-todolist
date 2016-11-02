@@ -13,7 +13,6 @@ sudo npm install -g babel-cli
 ```
 
 ## Running sample
-
 1. Download sample from GitHub
 2. Build aj project files
      ```bash
@@ -50,6 +49,7 @@ sudo npm install -g babel-cli
      # Todo List app server listening at http://:::8000
      ```
      
- To run on Android, open project located on todolist-http/platforms/android
- To run on iOS, open project located on todolist-http/platforms/ios
- To run on web browsers, navigate to http://yourip:8000/index.html
+     
+To run on Android, open project located on todolist-http/platforms/android
+To run on iOS, open project located on todolist-http/platforms/ios
+To run on web browsers, navigate to http://yourip:8000/index.html
