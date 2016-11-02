@@ -51,7 +51,7 @@ sudo npm install -g babel-cli
      ```bash
      $ cd ../../server
      $ node server.js
-     # Todo List app server listening at http://:::8000
+     Todo List app server listening at http://:::8000
      ```
      
      
