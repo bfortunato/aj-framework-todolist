@@ -21,24 +21,28 @@ sudo npm install -g babel-cli
      $ aj build
      # output...
      ```
+     
 3. Update server node modules
      ```bash
      $ cd server
      $ npm update
      # output...
      ```
+     
 4. Update bower modules
      ```bash
      $ cd ../platforms/web
      $ bower update
      # output...
      ```
+     
 5. Build React scripts
      ```bash
      $ npm update
      $ babel --presets react,es2015 assets/js/src/ --out-dir assets/js/build
      # output...
      ```
+     
 6. Run server
      ```bash
      $ cd ../../server
